@@ -1,4 +1,4 @@
-![SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/master/profile/sigma_banner.png)
+![SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/main/profile/sigma_logo.png)
 
 The SigmaDroid-Project
 =============================
