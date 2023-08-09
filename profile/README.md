@@ -3,7 +3,7 @@
 The SigmaDroid-Project
 =============================
 
-[![Download SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/master/profile/download.png)](https://www.pling.com/p/1619738/)
+[![Download SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/master/profile/download.png)](https://mega.nz/folder/29QXRCqT#9pO4ynX4_QD3L07ZHzUDwQ)
 
 Welcome to the SigmaDroid Android Project!
 
