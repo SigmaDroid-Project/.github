@@ -25,7 +25,9 @@ After visiting these repositories, familiarize yourself with our build system an
 
 ### Important Links
 
-Feel free to visit our Telegram group (TBA).
+Feel free to visit our Telegram groups.
+
+- [Telegram Discussion Group](https://t.me/PantahRomsPixel7and7Pro)
 
 <!--
 - [Telegram Announcements Channel](https://t.me/riceDroidNews)
