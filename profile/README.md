@@ -29,7 +29,7 @@ Feel free to visit our Telegram groups.
 
 - [Telegram Discussion Group](https://t.me/SigmaDroidChat)
 
-- [Telegram Announcements Channel](https://t.me/SigmaDroidNews)
+- [Telegram Announcements Channel](https://t.me/SigmaDroidAnnouncements)
 <!--
 - [Telegram Discussion Group](https://t.me/riceDroidsupport)
 -->
