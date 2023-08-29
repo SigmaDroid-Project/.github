@@ -27,9 +27,9 @@ After visiting these repositories, familiarize yourself with our build system an
 
 Feel free to visit our Telegram groups.
 
-- [Telegram Discussion Group](https://t.me/PantahRomsPixel7and7Pro)
+- [Telegram Discussion Group](https://t.me/SigmaDroidChat)
 
+- [Telegram Announcements Channel](https://t.me/SigmaDroidNews)
 <!--
-- [Telegram Announcements Channel](https://t.me/riceDroidNews)
 - [Telegram Discussion Group](https://t.me/riceDroidsupport)
 -->
