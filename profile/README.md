@@ -3,7 +3,7 @@
 The SigmaDroid Project
 =============================
 
-[![Download SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/main/profile/download.png)](https://mega.nz/folder/29QXRCqT#9pO4ynX4_QD3L07ZHzUDwQ)
+[![Download SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/main/profile/download.png)](https://sigmadroid.xyz/downloads/)
 
 Welcome to the SigmaDroid Android Project!
 
