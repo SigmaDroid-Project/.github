@@ -16,8 +16,11 @@ Please visit the following repositories for better insights:
 Manifest: contains all information about repositories of SigmaDroid-Project, how to do device bringup, tips about building, and credits.
 - [Android Manifest](https://github.com/SigmaDroid-Project/manifest)
 
-SigmaDroid-Project Vendor: repository with all the bits to make the rom "SigmaDroid-Project" branded.
-- [SigmaDroid-Project Vendor](https://github.com/SigmaDroid-Project/vendor_sigma)
+SigmaDroid Devices: repositories used to build SigmaDroid for every official releases are placed here.
+- [SigmaDroid-Devices](https://github.com/SigmaDroid-Devices)
+
+SigmaDroid Vendor: repository with all the bits to make the rom "SigmaDroid-Project" branded.
+- [SigmaDroid-Vendor](https://github.com/SigmaDroid-Project/vendor_lineage)
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
 
